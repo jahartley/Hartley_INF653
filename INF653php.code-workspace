@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.renderWhitespace": "all",
+		"files.eol": "\n",
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+		"files.encoding": "utf8"
+	}
+}
